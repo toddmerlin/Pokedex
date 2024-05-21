@@ -11,6 +11,8 @@ let pokemonRepository = (function () {
     { name: "Rattata", height: "3", type: "Normal" },
     { name: "Ekans", height: "3", type: "Poison" },
     { name: "Pikachu", height: "4", type: "Electric" },
+    { name: "Sandshrew", height: "6", type: "Ground" },
+    { name: "Diglett", height: "2", type: "Ground" },
   ];
 
   // Array containing keys that are required in each Pokemon object
